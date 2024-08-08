@@ -29,11 +29,11 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "aff75a677b853d82ccca8f98c929c
 "assets/packages/flutter_map/lib/assets/flutter_map_logo.png": "208d63cc917af9713fc9572bd5c09362",
 "assets/packages/flutter_neumorphic_plus/fonts/NeumorphicIcons.ttf": "32be0c4c86773ba5c9f7791e69964585",
 "assets/fonts/MaterialIcons-Regular.otf": "69de4aeea24e072825d967eb483d4ffd",
-"index.html": "0f8a59ad417d9fb99ce7850cc6dfb521",
-"/": "0f8a59ad417d9fb99ce7850cc6dfb521",
+"index.html": "8817d9e72c95015a0a088ae937dca4d3",
+"/": "8817d9e72c95015a0a088ae937dca4d3",
 "manifest.json": "4108ee6027016aafd454285c81224e33",
-"flutter_bootstrap.js": "67b4e85561750f7009e0b35ba25a726c",
-"main.dart.js": "fd0d6b338f41af1f4d633dfb98e4851c",
+"flutter_bootstrap.js": "7524a1413943dd25c7c69da53b4c744e",
+"main.dart.js": "9bae7bae7eb5f9c8562858bca17c4282",
 "flutter.js": "f31737fb005cd3a3c6bd9355efd33061"};
 // The application shell files that are downloaded before a service worker can
 // start.
